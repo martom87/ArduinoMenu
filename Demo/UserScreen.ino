@@ -1,4 +1,4 @@
-String nameg = printSomething4("duupa");
+String nameg = printSomething4("something");
 char*  name   = nameg.c_str();
 
 
